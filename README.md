@@ -2,4 +2,4 @@
 
 Authors: Yanwei Li, Giselle Grassi, Tammam Alalqum, Angela Velazquez, Sander Connolly, Shivani Ghoshal, Sachin Agarwal, David Roh, Jan Claassen, Murad Megjhani, Soojin Park
 
-The Supplementary Tables are attached as a [PDF](dataset.csv).
+The Supplementary Tables are attached as a [PDF](NCS_Morph_Supplement_Tables.pdf).
